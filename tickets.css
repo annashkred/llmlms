@@ -1,0 +1,66 @@
+body {
+    font-family: 'Jura', sans-serif;
+    background: url("background.jpg");
+}
+    #block1_pusto {
+      width: 15%;
+    }
+    #block1 {
+      position: relative;
+      display: flex;
+      justify-content: space-between;
+    }
+    #block1_3 {
+      width: 15%;
+      display: flex;
+      justify-content: center;
+    }
+    
+    #logo {
+        position: relative;
+        z-index: 3; 
+        width: 100%;
+        height: auto;
+    }
+
+    #inst {
+      padding: 6px;
+      width: 70%;
+      height: 25%;
+      z-index: 3;
+    }
+    #vkk {
+      padding: 6px;
+      width: 70%;
+      height: 25%;
+      z-index: 3;
+    }
+    #tt {
+      padding: 6px;
+      width: 70%;
+      height: 25%;
+      z-index: 3;
+    }
+#conteiner {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+    text-align: center;
+}
+p {
+    color: white;
+    font-size: xx-large;
+}
+#forma {
+    height: 60px;
+    width: 70%;
+}
+button {
+    height: 50px;
+    width: 30%;
+    margin-top: 20px;
+    color: white;
+    background-color: black;
+    border: solid 2px white;
+}
+
